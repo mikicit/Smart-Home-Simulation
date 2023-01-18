@@ -1,0 +1,9 @@
+**/log/log.txt.*
+**/report/*.txt
+**/.idea
+**/*.iml
+**/target
+**/node_modules
+**/generated-sources
+**/npm-debug.log
+**/.DS_Store
